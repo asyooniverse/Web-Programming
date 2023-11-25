@@ -1,0 +1,35 @@
+form {
+    margin: 50px auto auto auto;
+    width: 300px;
+}
+
+.form-class {
+    margin: 50px auto auto auto;
+    text-align: center;
+    width: 600px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.logout {
+    margin-top: 10px;
+    width:50%;
+    text-align: right;
+}
+
+h1 {
+    margin: 50px auto auto auto;
+    text-align: center;
+}
+
+.cover {
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+    display: flex;
+    justify-content: space-between;
+}

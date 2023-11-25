@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jiyoon_free">
+    <output-path>$PROJECT_DIR$/out/artifacts/jiyoon_free</output-path>
+    <root id="archive" name="jiyoon_free.war">
+      <element id="artifact" artifact-name="jiyoon_free:war exploded" />
+      <element id="module-source" name="jiyoon_free" />
+    </root>
+  </artifact>
+</component>

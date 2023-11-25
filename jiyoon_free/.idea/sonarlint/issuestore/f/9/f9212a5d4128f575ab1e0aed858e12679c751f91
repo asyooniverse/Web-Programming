@@ -1,0 +1,11 @@
+
+m
+java:S11925"KDefine a constant instead of duplicating this literal "article_id" 3 times.(ÄÆÒ„ÿÿÿÿÿ8’áî¿1
+’
+java:S1319)"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‰º»«üÿÿÿÿ8’áî¿1
+’
+java:S1319G"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(µééıÿÿÿÿ8’áî¿1
+w	java:S116"VRename this field "jdbc_driver" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­—êÿÿÿÿÿ8¤’áî¿1
+o	java:S116"SRename this field "jdbc_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ÒºÁ8¤’áî¿1
+X
+java:S6437"6Revoke and change this password, as it is compromised.(÷Ì¤Ğşÿÿÿÿ8¨’áî¿1
